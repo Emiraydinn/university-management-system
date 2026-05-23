@@ -209,6 +209,4 @@ http://localhost:5173
 
 ---
 
-## 13. Hazırlayan
 
-Mehmet Emir Aydin - 2023150006
