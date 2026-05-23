@@ -1,0 +1,15 @@
+# .NET
+bin/
+obj/
+.vs/
+
+# Config
+appsettings.Development.json
+
+# Frontend
+node_modules/
+.env
+.env.local
+
+# Logs
+*.log
